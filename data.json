@@ -1,0 +1,2091 @@
+{
+  "meta": {
+    "project": "110 SPPC",
+    "date": "01.09.2026",
+    "client": "OOO «Эста Констракшен» · Severstal"
+  },
+  "contractCurrent": {
+    "label": "Güncel Sözleşme Bedeli — Доп. № 20",
+    "date": "24.07.2024",
+    "total": "41.292 M",
+    "items": [
+      [
+        "İşçilik",
+        "27.909 M"
+      ],
+      [
+        "İşçilik - Test ve Devreye Alma",
+        "1.041 M"
+      ],
+      [
+        "100 Ton Üstü Vinç Maliyetleri",
+        "1.400 M"
+      ],
+      [
+        "Mobilizasyon (Ek Sözleşme №6)",
+        "352 M"
+      ],
+      [
+        "Malzeme",
+        "10.590 M"
+      ]
+    ]
+  },
+  "contractPotential": {
+    "label": "Toplam Potansiyel Sözleşme Bedeli",
+    "total": "54.011 M",
+    "items": [
+      [
+        "İşçilik",
+        "34.274 M"
+      ],
+      [
+        "İşçilik - Test ve Devreye Alma",
+        "1.041 M"
+      ],
+      [
+        "100 Ton Üstü Vinç Maliyetleri",
+        "1.715 M"
+      ],
+      [
+        "Mobilizasyon (Ek Sözleşme №6)",
+        "352 M"
+      ],
+      [
+        "Malzeme",
+        "16.628 M"
+      ]
+    ]
+  },
+  "gauges": [
+    {
+      "big": "29.475 M",
+      "sub": "",
+      "label": "Toplam Tahsilat",
+      "accent": "gold"
+    },
+    {
+      "big": "32.686 M",
+      "sub": "",
+      "label": "Saha Tahakkuk",
+      "accent": "gold"
+    },
+    {
+      "big": "21.292 M",
+      "sub": "Proje Transfer 522 M",
+      "label": "Toplam Harcama",
+      "accent": "red"
+    },
+    {
+      "big": "4.848 M",
+      "sub": "Avans Tahsilat 16.397 M",
+      "label": "Avans Kesintisi",
+      "accent": "red"
+    },
+    {
+      "big": "19.128 M",
+      "sub": "",
+      "label": "Brüt Hakediş",
+      "accent": "gold"
+    },
+    {
+      "big": "13.557 M",
+      "sub": "Banka Bakiye 8.182 M",
+      "label": "Açık İşler",
+      "accent": "orange"
+    },
+    {
+      "big": "1.022 M",
+      "sub": "",
+      "label": "Borç",
+      "accent": "red"
+    },
+    {
+      "big": "8.182 M",
+      "sub": "",
+      "label": "Banka Bakiye",
+      "accent": "gold"
+    }
+  ],
+  "brutHakedisDetay": [
+    [
+      "İşçilik",
+      "10.730 M"
+    ],
+    [
+      "Malzeme",
+      "6.643 M"
+    ],
+    [
+      "100 Ton Üstü Vinçler",
+      "1.687 M"
+    ],
+    [
+      "Kur Farkı",
+      "68 M"
+    ]
+  ],
+  "kalanGun": {
+    "cmpGun": 9,
+    "cmpTarih": "09.09.2026",
+    "pnrGun": 115,
+    "pnrTarih": "24.12.2026",
+    "gecenPnr": 87
+  },
+  "bankaBakiye": {
+    "bakiye": "8.182 M",
+    "harcama": "21.292 M",
+    "acikIsler": "13.557 M",
+    "pct": 41
+  },
+  "avansSummary": [
+    [
+      "Toplam Avans Tahsilat",
+      "16.397 M",
+      "19.717 M",
+      null
+    ],
+    [
+      "Toplam Kesilecek Avans",
+      "16.208 M",
+      "19.717 M",
+      null
+    ],
+    [
+      "Toplam Avans Kesintisi",
+      "4.848 M",
+      "5.858 M",
+      null
+    ],
+    [
+      "Kalan Avans Borcu",
+      "11.360 M",
+      "13.859 M",
+      null
+    ]
+  ],
+  "bankaGarantili": [
+    [
+      "Alınan Banka Garantili Avans",
+      "11.197 M",
+      "13.639 M",
+      null
+    ],
+    [
+      "Kesilen Banka Garantili Avans Mektubu",
+      "1.082 M",
+      "1.299 M",
+      null
+    ],
+    [
+      "Kalan Banka Garantili Avans Mektubu",
+      "10.115 M",
+      "12.340 M",
+      null
+    ]
+  ],
+  "bankaGarantisiz": [
+    [
+      "Alınan Banka Garantisiz Avans",
+      "5.010 M",
+      "6.078 M",
+      null
+    ],
+    [
+      "Kesilen Banka Garantisiz Avans",
+      "3.765 M",
+      "4.559 M",
+      null
+    ],
+    [
+      "Kalan Banka Garantisiz Avans",
+      "1.245 M",
+      "1.519 M",
+      null
+    ]
+  ],
+  "potansiyelDusulecek": {
+    "kdvsiz": "− 1.245 M",
+    "kdvli": "− 1.494 M"
+  },
+  "monthlyBrut": [
+    {
+      "m": "Eyl.24",
+      "v": 42
+    },
+    {
+      "m": "Eki.24",
+      "v": 84
+    },
+    {
+      "m": "Kas.24",
+      "v": 429
+    },
+    {
+      "m": "Ara.24",
+      "v": 816
+    },
+    {
+      "m": "Oca.25",
+      "v": 142
+    },
+    {
+      "m": "Şub.25",
+      "v": 1380
+    },
+    {
+      "m": "Mar.25",
+      "v": 58
+    },
+    {
+      "m": "Nis.25",
+      "v": 569
+    },
+    {
+      "m": "May.25",
+      "v": 635
+    },
+    {
+      "m": "Haz.25",
+      "v": 469
+    },
+    {
+      "m": "Tem.25",
+      "v": 550
+    },
+    {
+      "m": "Ağu.25",
+      "v": 1147
+    },
+    {
+      "m": "Eyl.25",
+      "v": 1463
+    },
+    {
+      "m": "Eki.25",
+      "v": 1190
+    },
+    {
+      "m": "Kas.25",
+      "v": 1314
+    },
+    {
+      "m": "Ara.25",
+      "v": 1208
+    },
+    {
+      "m": "Oca.26",
+      "v": 424
+    },
+    {
+      "m": "Şub.26",
+      "v": 836
+    },
+    {
+      "m": "Mar.26",
+      "v": 700
+    },
+    {
+      "m": "Nis.26",
+      "v": 1433
+    },
+    {
+      "m": "May.26",
+      "v": 614
+    },
+    {
+      "m": "Haz.26",
+      "v": 1150
+    },
+    {
+      "m": "Tem.26",
+      "v": 1136
+    },
+    {
+      "m": "Ağu.26",
+      "v": 1339
+    }
+  ],
+  "monthlyNet": [
+    {
+      "m": "Eyl.24",
+      "tahsilat": 0,
+      "net": 39
+    },
+    {
+      "m": "Eki.24",
+      "tahsilat": 106,
+      "net": 79
+    },
+    {
+      "m": "Kas.24",
+      "tahsilat": 360,
+      "net": 403
+    },
+    {
+      "m": "Ara.24",
+      "tahsilat": 620,
+      "net": 737
+    },
+    {
+      "m": "Oca.25",
+      "tahsilat": 138,
+      "net": 132
+    },
+    {
+      "m": "Şub.25",
+      "tahsilat": 751,
+      "net": 1187
+    },
+    {
+      "m": "Mar.25",
+      "tahsilat": 337,
+      "net": 47
+    },
+    {
+      "m": "Nis.25",
+      "tahsilat": 272,
+      "net": 352
+    },
+    {
+      "m": "May.25",
+      "tahsilat": 223,
+      "net": 343
+    },
+    {
+      "m": "Haz.25",
+      "tahsilat": 345,
+      "net": 256
+    },
+    {
+      "m": "Tem.25",
+      "tahsilat": 305,
+      "net": 307
+    },
+    {
+      "m": "Ağu.25",
+      "tahsilat": 490,
+      "net": 754
+    },
+    {
+      "m": "Eyl.25",
+      "tahsilat": 927,
+      "net": 985
+    },
+    {
+      "m": "Eki.25",
+      "tahsilat": 1076,
+      "net": 800
+    },
+    {
+      "m": "Kas.25",
+      "tahsilat": 841,
+      "net": 843
+    },
+    {
+      "m": "Ara.25",
+      "tahsilat": 1288,
+      "net": 862
+    },
+    {
+      "m": "Oca.26",
+      "tahsilat": 47,
+      "net": 263
+    },
+    {
+      "m": "Şub.26",
+      "tahsilat": 600,
+      "net": 637
+    },
+    {
+      "m": "Mar.26",
+      "tahsilat": 844,
+      "net": 484
+    },
+    {
+      "m": "Nis.26",
+      "tahsilat": 844,
+      "net": 918
+    },
+    {
+      "m": "May.26",
+      "tahsilat": 455,
+      "net": 383
+    },
+    {
+      "m": "Haz.26",
+      "tahsilat": 776,
+      "net": 797
+    },
+    {
+      "m": "Tem.26",
+      "tahsilat": 790,
+      "net": 766
+    },
+    {
+      "m": "Ağu.26",
+      "tahsilat": 841,
+      "net": 703
+    }
+  ],
+  "hakedisTipleri": [
+    [
+      "Betonarme İşleri",
+      "6.345 M",
+      "4.666 M"
+    ],
+    [
+      "Çelik Konstruksiyon",
+      "16.174 M",
+      "10.228 M"
+    ],
+    [
+      "Teknolojik Ekipman",
+      "4.749 M",
+      "1.586 M"
+    ],
+    [
+      "Toprak İşleri",
+      "506 M",
+      "487 M"
+    ],
+    [
+      "İnce İşler ve Sandwich Panel",
+      "765 M",
+      "0 M"
+    ],
+    [
+      "Elektrik İşleri",
+      "1.204 M",
+      "205 M"
+    ],
+    [
+      "100 Ton Üstü Vinçler",
+      "1.771 M",
+      "1.687 M"
+    ],
+    [
+      "PNR",
+      "114 M",
+      "0 M"
+    ],
+    [
+      "Mekanik Tesisat ve Havalandırma",
+      "527 M",
+      "0 M"
+    ],
+    [
+      "İşçi Kampı Binaları",
+      "191 M",
+      "191 M"
+    ],
+    [
+      "Kamp İşletme Giderleri",
+      "86 M",
+      "79 M"
+    ]
+  ],
+  "hakedisTotals": {
+    "kdvHaric": {
+      "finansal": "32.686 M",
+      "brut": "19.128 M"
+    },
+    "kdvli": {
+      "finansal": "39.223 M",
+      "brut": "22.954 M"
+    }
+  },
+  "personel": {
+    "toplam": 3309,
+    "estaDirekt": 1808,
+    "estaEndirekt": 297,
+    "taseronDirekt": 889,
+    "taseronEndirekt": 236,
+    "make": 79,
+    "oran": 14
+  },
+  "sahaItems": [
+    {
+      "name": "Beton",
+      "unit": "m³",
+      "proje": 72372,
+      "gerc": 66370,
+      "kalan": 6002,
+      "ay": {
+        "plan": 425,
+        "gerc": 219,
+        "kalan": 206
+      },
+      "haftalik": 54
+    },
+    {
+      "name": "Ekipman Montaj",
+      "unit": "ton",
+      "proje": 36141,
+      "gerc": 26602,
+      "kalan": 9539,
+      "ay": {
+        "plan": 1350,
+        "gerc": 1077,
+        "kalan": 273
+      },
+      "haftalik": 267
+    },
+    {
+      "name": "Yapısal Çelik",
+      "unit": "ton",
+      "proje": 50668,
+      "gerc": 39170,
+      "kalan": 11498,
+      "ay": {
+        "plan": 1540,
+        "gerc": 1125,
+        "kalan": 415
+      },
+      "haftalik": 279
+    },
+    {
+      "name": "Toprak İşleri",
+      "unit": "m³",
+      "proje": 112416,
+      "gerc": 105042,
+      "kalan": 7374,
+      "ay": {
+        "plan": 0,
+        "gerc": 0,
+        "kalan": 0
+      },
+      "haftalik": 0
+    },
+    {
+      "name": "Sandwich Panel",
+      "unit": "m²",
+      "proje": 124173,
+      "gerc": 46308,
+      "kalan": 77864,
+      "ay": {
+        "plan": 9850,
+        "gerc": 2055,
+        "kalan": 7795
+      },
+      "haftalik": 510
+    },
+    {
+      "name": "İnce İşler",
+      "unit": "m²",
+      "proje": 181234,
+      "gerc": 14182,
+      "kalan": 167052,
+      "ay": {
+        "plan": 3000,
+        "gerc": 477,
+        "kalan": 2523
+      },
+      "haftalik": 118
+    },
+    {
+      "name": "Elektrik İşleri",
+      "unit": "m",
+      "proje": 2111962,
+      "gerc": 265682,
+      "kalan": 1846281,
+      "ay": {
+        "plan": 105000,
+        "gerc": 41247,
+        "kalan": 63753
+      },
+      "haftalik": 10241
+    },
+    {
+      "name": "Mekanik İşleri",
+      "unit": "m",
+      "proje": 78519,
+      "gerc": 23393,
+      "kalan": 55126,
+      "ay": {
+        "plan": 5100,
+        "gerc": 1664,
+        "kalan": 3436
+      },
+      "haftalik": 413
+    }
+  ],
+  "brutHakedisToplam": "19.128 M",
+  "kesintiler": [
+    [
+      "Avans Kesintileri",
+      "4.938 M",
+      null
+    ],
+    [
+      "Banka Garantisiz Kesinti",
+      "3.856 M",
+      null
+    ],
+    [
+      "Banka Garantili Kesinti",
+      "1.082 M",
+      null
+    ],
+    [
+      "İSG Kesintileri",
+      "17 M",
+      null
+    ],
+    [
+      "Elektrik Kesintileri",
+      "45 M",
+      null
+    ],
+    [
+      "Garanti Kesintileri",
+      "1.034 M",
+      null
+    ],
+    [
+      "Garanti Kesintisi %10 (Ödenen Hariç)",
+      "164 M",
+      null
+    ],
+    [
+      "Garanti Kesintisi %5",
+      "871 M",
+      null
+    ]
+  ],
+  "aylikDagilim": [
+    {
+      "ay": "Eyl.24",
+      "toplam": 42,
+      "kalemler": [
+        [
+          "Betonarme",
+          42
+        ]
+      ]
+    },
+    {
+      "ay": "Eki.24",
+      "toplam": 84,
+      "kalemler": [
+        [
+          "Betonarme",
+          84
+        ]
+      ]
+    },
+    {
+      "ay": "Kas.24",
+      "toplam": 429,
+      "kalemler": [
+        [
+          "Betonarme",
+          429
+        ]
+      ]
+    },
+    {
+      "ay": "Ara.24",
+      "toplam": 816,
+      "kalemler": [
+        [
+          "Betonarme",
+          816
+        ]
+      ]
+    },
+    {
+      "ay": "Oca.25",
+      "toplam": 142,
+      "kalemler": [
+        [
+          "Betonarme",
+          142
+        ]
+      ]
+    },
+    {
+      "ay": "Şub.25",
+      "toplam": 1380,
+      "kalemler": [
+        [
+          "Betonarme",
+          914
+        ],
+        [
+          "Çelik Konstruksiyon",
+          415
+        ],
+        [
+          "Teknolojik Ekipman",
+          31
+        ],
+        [
+          "Toprak İşleri",
+          19
+        ]
+      ]
+    },
+    {
+      "ay": "Mar.25",
+      "toplam": 58,
+      "kalemler": [
+        [
+          "Betonarme",
+          32
+        ],
+        [
+          "Toprak İşleri",
+          27
+        ]
+      ]
+    },
+    {
+      "ay": "Nis.25",
+      "toplam": 569,
+      "kalemler": [
+        [
+          "Betonarme",
+          424
+        ],
+        [
+          "Teknolojik Ekipman",
+          39
+        ],
+        [
+          "Toprak İşleri",
+          83
+        ],
+        [
+          "Elektrik İşleri",
+          23
+        ]
+      ]
+    },
+    {
+      "ay": "May.25",
+      "toplam": 635,
+      "kalemler": [
+        [
+          "Betonarme",
+          157
+        ],
+        [
+          "Çelik Konstruksiyon",
+          280
+        ],
+        [
+          "Toprak İşleri",
+          198
+        ]
+      ]
+    },
+    {
+      "ay": "Haz.25",
+      "toplam": 469,
+      "kalemler": [
+        [
+          "Betonarme",
+          54
+        ],
+        [
+          "Çelik Konstruksiyon",
+          397
+        ],
+        [
+          "Toprak İşleri",
+          17
+        ]
+      ]
+    },
+    {
+      "ay": "Tem.25",
+      "toplam": 550,
+      "kalemler": [
+        [
+          "Betonarme",
+          120
+        ],
+        [
+          "Çelik Konstruksiyon",
+          390
+        ],
+        [
+          "Toprak İşleri",
+          40
+        ]
+      ]
+    },
+    {
+      "ay": "Ağu.25",
+      "toplam": 1147,
+      "kalemler": [
+        [
+          "Betonarme",
+          211
+        ],
+        [
+          "Çelik Konstruksiyon",
+          656
+        ],
+        [
+          "Toprak İşleri",
+          23
+        ],
+        [
+          "Elektrik İşleri",
+          66
+        ],
+        [
+          "İşçi Kampı Binaları",
+          191
+        ]
+      ]
+    },
+    {
+      "ay": "Eyl.25",
+      "toplam": 1463,
+      "kalemler": [
+        [
+          "Betonarme",
+          46
+        ],
+        [
+          "Çelik Konstruksiyon",
+          1154
+        ],
+        [
+          "Teknolojik Ekipman",
+          99
+        ],
+        [
+          "Toprak İşleri",
+          17
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          147
+        ]
+      ]
+    },
+    {
+      "ay": "Eki.25",
+      "toplam": 1190,
+      "kalemler": [
+        [
+          "Betonarme",
+          71
+        ],
+        [
+          "Çelik Konstruksiyon",
+          949
+        ],
+        [
+          "Teknolojik Ekipman",
+          50
+        ],
+        [
+          "Toprak İşleri",
+          9
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          111
+        ]
+      ]
+    },
+    {
+      "ay": "Kas.25",
+      "toplam": 1314,
+      "kalemler": [
+        [
+          "Betonarme",
+          130
+        ],
+        [
+          "Çelik Konstruksiyon",
+          729
+        ],
+        [
+          "Teknolojik Ekipman",
+          426
+        ],
+        [
+          "Toprak İşleri",
+          11
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          18
+        ]
+      ]
+    },
+    {
+      "ay": "Ara.25",
+      "toplam": 1208,
+      "kalemler": [
+        [
+          "Betonarme",
+          92
+        ],
+        [
+          "Çelik Konstruksiyon",
+          604
+        ],
+        [
+          "Teknolojik Ekipman",
+          237
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          275
+        ]
+      ]
+    },
+    {
+      "ay": "Oca.26",
+      "toplam": 424,
+      "kalemler": [
+        [
+          "Betonarme",
+          39
+        ],
+        [
+          "Çelik Konstruksiyon",
+          358
+        ],
+        [
+          "Teknolojik Ekipman",
+          27
+        ]
+      ]
+    },
+    {
+      "ay": "Şub.26",
+      "toplam": 836,
+      "kalemler": [
+        [
+          "Betonarme",
+          24
+        ],
+        [
+          "Çelik Konstruksiyon",
+          522
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          290
+        ]
+      ]
+    },
+    {
+      "ay": "Mar.26",
+      "toplam": 700,
+      "kalemler": [
+        [
+          "Betonarme",
+          116
+        ],
+        [
+          "Çelik Konstruksiyon",
+          412
+        ],
+        [
+          "Toprak İşleri",
+          33
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          140
+        ]
+      ]
+    },
+    {
+      "ay": "Nis.26",
+      "toplam": 1433,
+      "kalemler": [
+        [
+          "Betonarme",
+          271
+        ],
+        [
+          "Çelik Konstruksiyon",
+          728
+        ],
+        [
+          "Teknolojik Ekipman",
+          308
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          18
+        ],
+        [
+          "Elektrik İşleri",
+          44
+        ],
+        [
+          "Kamp İşletme Giderleri",
+          64
+        ]
+      ]
+    },
+    {
+      "ay": "May.26",
+      "toplam": 614,
+      "kalemler": [
+        [
+          "Betonarme",
+          66
+        ],
+        [
+          "Çelik Konstruksiyon",
+          209
+        ],
+        [
+          "Teknolojik Ekipman",
+          165
+        ],
+        [
+          "Toprak İşleri",
+          1
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          104
+        ],
+        [
+          "Elektrik İşleri",
+          69
+        ]
+      ]
+    },
+    {
+      "ay": "Haz.26",
+      "toplam": 1150,
+      "kalemler": [
+        [
+          "Betonarme",
+          161
+        ],
+        [
+          "Çelik Konstruksiyon",
+          696
+        ],
+        [
+          "Teknolojik Ekipman",
+          22
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          204
+        ],
+        [
+          "Elektrik İşleri",
+          52
+        ],
+        [
+          "Kamp İşletme Giderleri",
+          14
+        ]
+      ]
+    },
+    {
+      "ay": "Tem.26",
+      "toplam": 1136,
+      "kalemler": [
+        [
+          "Betonarme",
+          142
+        ],
+        [
+          "Çelik Konstruksiyon",
+          757
+        ],
+        [
+          "Teknolojik Ekipman",
+          47
+        ],
+        [
+          "Toprak İşleri",
+          2
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          177
+        ],
+        [
+          "Elektrik İşleri",
+          10
+        ]
+      ]
+    },
+    {
+      "ay": "Ağu.26",
+      "toplam": 1339,
+      "kalemler": [
+        [
+          "Betonarme",
+          83
+        ],
+        [
+          "Çelik Konstruksiyon",
+          969
+        ],
+        [
+          "Teknolojik Ekipman",
+          136
+        ],
+        [
+          "Toprak İşleri",
+          29
+        ],
+        [
+          "Elektrik İşleri",
+          10
+        ],
+        [
+          "100 Ton Üstü Vinçler",
+          113
+        ]
+      ]
+    }
+  ],
+  "harcamalar": {
+    "aylar": [
+      "Haz.24",
+      "Tem.24",
+      "Ağu.24",
+      "Eyl.24",
+      "Eki.24",
+      "Kas.24",
+      "Ara.24",
+      "Oca.25",
+      "Şub.25",
+      "Mar.25",
+      "Nis.25",
+      "May.25",
+      "Haz.25",
+      "Tem.25",
+      "Ağu.25",
+      "Eyl.25",
+      "Eki.25",
+      "Kas.25",
+      "Ara.25",
+      "Oca.26",
+      "Şub.26",
+      "Mar.26",
+      "Nis.26",
+      "May.26",
+      "Haz.26",
+      "Tem.26"
+    ],
+    "kategoriler": [
+      {
+        "ad": "Sarf Malzemeler",
+        "odenen": 175,
+        "aylik": [
+          0,
+          1,
+          2,
+          2,
+          6,
+          8,
+          8,
+          1,
+          4,
+          7,
+          8,
+          5,
+          9,
+          6,
+          15,
+          6,
+          7,
+          10,
+          5,
+          0,
+          7,
+          10,
+          16,
+          19,
+          5,
+          8
+        ],
+        "altKalemler": []
+      },
+      {
+        "ad": "İşçilik",
+        "odenen": 2952,
+        "aylik": [
+          0,
+          0,
+          2,
+          9,
+          21,
+          30,
+          47,
+          65,
+          75,
+          70,
+          96,
+          101,
+          109,
+          135,
+          149,
+          159,
+          164,
+          164,
+          164,
+          170,
+          163,
+          181,
+          178,
+          219,
+          256,
+          224
+        ],
+        "altKalemler": []
+      },
+      {
+        "ad": "Taşeron",
+        "odenen": 1902,
+        "aylik": [
+          0,
+          0,
+          3,
+          8,
+          14,
+          37,
+          85,
+          29,
+          45,
+          92,
+          59,
+          61,
+          67,
+          91,
+          89,
+          89,
+          96,
+          86,
+          138,
+          45,
+          91,
+          114,
+          128,
+          183,
+          143,
+          110
+        ],
+        "altKalemler": [
+          {
+            "ad": "Altyapı",
+            "odenen": 172,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              11,
+              0,
+              2,
+              29,
+              12,
+              8,
+              29,
+              21,
+              15,
+              4,
+              8,
+              14,
+              8,
+              4,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ad": "Betonarme",
+            "odenen": 254,
+            "aylik": [
+              0,
+              0,
+              3,
+              8,
+              8,
+              23,
+              49,
+              14,
+              27,
+              44,
+              12,
+              8,
+              6,
+              6,
+              6,
+              14,
+              3,
+              0,
+              15,
+              0,
+              0,
+              6,
+              0,
+              0,
+              0,
+              2
+            ]
+          },
+          {
+            "ad": "Teknolojik Ekipman",
+            "odenen": 120,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              2,
+              0,
+              25,
+              31,
+              0,
+              22,
+              10,
+              15,
+              7,
+              1,
+              7,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ad": "Çelik Konstruksiyon",
+            "odenen": 842,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              6,
+              10,
+              17,
+              13,
+              12,
+              16,
+              28,
+              36,
+              29,
+              33,
+              25,
+              57,
+              36,
+              46,
+              63,
+              29,
+              42,
+              52,
+              69,
+              77,
+              77,
+              69
+            ]
+          },
+          {
+            "ad": "Üstyapı Boru",
+            "odenen": 42,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              19,
+              0,
+              22,
+              0,
+              0
+            ]
+          },
+          {
+            "ad": "İnce İşler",
+            "odenen": 35,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              2,
+              3,
+              2,
+              8,
+              2,
+              9,
+              4,
+              0,
+              4
+            ]
+          },
+          {
+            "ad": "HVAC",
+            "odenen": 29,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              2,
+              3,
+              1,
+              3,
+              2,
+              4,
+              8,
+              7
+            ]
+          },
+          {
+            "ad": "PPR, Test ve Laboratuvar",
+            "odenen": 111,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              3,
+              1,
+              2,
+              2,
+              3,
+              3,
+              3,
+              4,
+              5,
+              7,
+              6,
+              4,
+              11,
+              0,
+              10,
+              4,
+              18,
+              11,
+              13,
+              0
+            ]
+          },
+          {
+            "ad": "PTO",
+            "odenen": 82,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              2,
+              4,
+              1,
+              2,
+              2,
+              3,
+              3,
+              0,
+              2,
+              4,
+              7,
+              9,
+              0,
+              8,
+              0,
+              6,
+              3,
+              7,
+              5,
+              9,
+              5
+            ]
+          },
+          {
+            "ad": "Elektrik",
+            "odenen": 139,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              2,
+              0,
+              11,
+              10,
+              13,
+              0,
+              13,
+              12,
+              17,
+              29,
+              16,
+              15
+            ]
+          },
+          {
+            "ad": "Refraktör",
+            "odenen": 0,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ad": "PNR",
+            "odenen": 29,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              2,
+              4,
+              11,
+              5,
+              6
+            ]
+          },
+          {
+            "ad": "Üstyapı Boya",
+            "odenen": 20,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              4,
+              4,
+              3,
+              5,
+              2,
+              3
+            ]
+          },
+          {
+            "ad": "İskele İşleri",
+            "odenen": 27,
+            "aylik": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              15,
+              12,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "ad": "Demirbaşlar",
+        "odenen": 886,
+        "aylik": [
+          0,
+          5,
+          20,
+          17,
+          55,
+          49,
+          54,
+          33,
+          90,
+          149,
+          96,
+          47,
+          20,
+          10,
+          48,
+          54,
+          13,
+          17,
+          41,
+          8,
+          14,
+          11,
+          9,
+          22,
+          4,
+          0
+        ],
+        "altKalemler": []
+      },
+      {
+        "ad": "Genel Giderler",
+        "odenen": 3560,
+        "aylik": [
+          2,
+          3,
+          33,
+          66,
+          117,
+          121,
+          174,
+          107,
+          143,
+          255,
+          173,
+          170,
+          106,
+          99,
+          200,
+          112,
+          163,
+          152,
+          195,
+          84,
+          156,
+          188,
+          182,
+          295,
+          145,
+          120
+        ],
+        "altKalemler": []
+      },
+      {
+        "ad": "Endirekt Ücretleri",
+        "odenen": 1224,
+        "aylik": [
+          0,
+          0,
+          7,
+          15,
+          26,
+          34,
+          40,
+          48,
+          48,
+          47,
+          48,
+          49,
+          52,
+          60,
+          61,
+          57,
+          61,
+          61,
+          61,
+          61,
+          60,
+          61,
+          66,
+          66,
+          67,
+          66
+        ],
+        "altKalemler": []
+      },
+      {
+        "ad": "Vergiler",
+        "odenen": 1571,
+        "aylik": [
+          0,
+          0,
+          5,
+          13,
+          26,
+          35,
+          46,
+          56,
+          55,
+          59,
+          64,
+          65,
+          65,
+          74,
+          79,
+          77,
+          82,
+          81,
+          82,
+          82,
+          78,
+          86,
+          83,
+          91,
+          97,
+          89
+        ],
+        "altKalemler": []
+      },
+      {
+        "ad": "MGG",
+        "odenen": 690,
+        "aylik": [
+          0,
+          0,
+          0,
+          10,
+          3,
+          9,
+          29,
+          3,
+          22,
+          138,
+          89,
+          48,
+          13,
+          7,
+          12,
+          22,
+          26,
+          20,
+          88,
+          1,
+          15,
+          16,
+          19,
+          62,
+          20,
+          18
+        ],
+        "altKalemler": []
+      },
+      {
+        "ad": "Finansal Giderler",
+        "odenen": 1080,
+        "aylik": [
+          0,
+          0,
+          0,
+          3,
+          5,
+          2,
+          36,
+          21,
+          24,
+          28,
+          55,
+          -25,
+          27,
+          41,
+          50,
+          184,
+          70,
+          48,
+          72,
+          15,
+          46,
+          52,
+          43,
+          48,
+          47,
+          191
+        ],
+        "altKalemler": []
+      },
+      {
+        "ad": "Ekipman",
+        "odenen": 1585,
+        "aylik": [
+          0,
+          0,
+          34,
+          75,
+          8,
+          23,
+          33,
+          20,
+          73,
+          110,
+          82,
+          52,
+          56,
+          37,
+          61,
+          66,
+          70,
+          83,
+          144,
+          32,
+          109,
+          55,
+          63,
+          182,
+          81,
+          36
+        ],
+        "altKalemler": []
+      },
+      {
+        "ad": "100 Ton Üstü Vinçler",
+        "odenen": 1049,
+        "aylik": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          0,
+          2,
+          9,
+          6,
+          9,
+          9,
+          15,
+          29,
+          62,
+          62,
+          70,
+          153,
+          28,
+          112,
+          73,
+          70,
+          216,
+          80,
+          40
+        ],
+        "altKalemler": []
+      },
+      {
+        "ad": "Proje Malzemeleri",
+        "odenen": 4278,
+        "aylik": [
+          0,
+          0,
+          0,
+          25,
+          77,
+          90,
+          104,
+          53,
+          92,
+          74,
+          99,
+          52,
+          341,
+          69,
+          124,
+          270,
+          284,
+          262,
+          1397,
+          20,
+          117,
+          132,
+          148,
+          150,
+          155,
+          143
+        ],
+        "altKalemler": []
+      }
+    ],
+    "toplam": {
+      "ay": [
+        "Haz.24",
+        "Tem.24",
+        "Ağu.24",
+        "Eyl.24",
+        "Eki.24",
+        "Kas.24",
+        "Ara.24",
+        "Oca.25",
+        "Şub.25",
+        "Mar.25",
+        "Nis.25",
+        "May.25",
+        "Haz.25",
+        "Tem.25",
+        "Ağu.25",
+        "Eyl.25",
+        "Eki.25",
+        "Kas.25",
+        "Ara.25",
+        "Oca.26",
+        "Şub.26",
+        "Mar.26",
+        "Nis.26",
+        "May.26",
+        "Haz.26",
+        "Tem.26"
+      ],
+      "degerler": [
+        2,
+        10,
+        106,
+        243,
+        356,
+        441,
+        661,
+        436,
+        673,
+        1038,
+        874,
+        634,
+        874,
+        644,
+        916,
+        1156,
+        1097,
+        1054,
+        2539,
+        547,
+        970,
+        978,
+        1003,
+        1553,
+        1101,
+        1045
+      ],
+      "odenen": 20952
+    }
+  },
+  "butce": "41.372 M"
+}
